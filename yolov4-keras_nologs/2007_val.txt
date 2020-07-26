@@ -1,0 +1,18 @@
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_642.jpg 520,127,611,239,1 649,85,714,190,1 929,21,1023,204,1 453,61,526,156,1 291,76,376,157,1 147,101,217,180,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_657.jpg 714,43,856,200,1 507,88,614,250,1 171,95,273,250,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_722.jpg 170,65,885,970,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_773.jpg 789,400,917,572,1 69,1002,199,1174,1 766,2,828,72,1 528,20,589,90,1 333,156,376,210,1 417,179,458,236,1 207,149,264,208,1 294,154,323,208,1 158,156,199,210,1 69,164,125,215,1 15,179,53,228,1 217,354,707,913,0
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_850.jpg 609,157,647,205,1 661,149,700,204,1 733,157,775,202,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/1_Handshaking_Handshaking_1_854.jpg 640,98,795,287,1 219,89,404,289,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/4_Dancing_Dancing_4_12.jpg 631,105,711,217,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/4_Dancing_Dancing_4_138.jpg 645,169,852,355,1 342,9,528,224,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/4_Dancing_Dancing_4_2.jpg 583,62,659,167,1 809,88,859,156,1 699,51,764,131,1 323,70,395,148,1 171,96,256,186,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/4_Dancing_Dancing_4_22.jpg 638,131,751,341,1 204,60,329,246,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/4_Dancing_Dancing_4_42.jpg 526,154,618,269,1 866,288,949,378,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/4_Dancing_Dancing_4_68.jpg 630,309,694,398,1 865,288,923,382,1 394,341,449,407,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/test_00003843.jpg 520,405,629,538,0
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/test_00003847.jpg 155,22,237,131,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/test_00003898.jpg 191,46,503,454,0
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/test_00003902.jpg 121,3,372,369,0
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/test_00003933.jpg 103,25,265,278,1
+C:\all_file\git_file\yolo\yolo4-mask\yolov4-keras/VOCdevkit/VOC2007/JPEGImages/test_00003937.jpg 42,15,107,89,0
