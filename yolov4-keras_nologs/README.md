@@ -4,7 +4,7 @@
 
 ---
 
-oRIGIN: https://gitee.com/Leolibin/yolov4-keras.git
+Origin: https://gitee.com/Leolibin/yolov4-keras.git
 
 
 ### YOLOV4的改进
